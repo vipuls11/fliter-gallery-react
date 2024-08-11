@@ -9,7 +9,7 @@ const menu= [
     },
     {
         id:2,
-        image:"public/image/AlooPakora.webp",
+        image:"/image/AlooPakora.webp",
         name:"Allu Pakoida",
         category:"launch",
         price:"20",
